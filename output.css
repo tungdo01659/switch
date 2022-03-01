@@ -432,39 +432,39 @@ Ensure the default browser behavior of the `hidden` attribute.
   font-family: 'Noto Sans JP';
   font-style: normal;
   font-weight: 400;
-  src: url('../assets/fonts/noto-sans-jp-v40-japanese-regular.eot'); /* IE9 Compat Modes */
+  src: url('https://github.com/tungdo01659/switch/blob/main/noto-sans-jp-v40-japanese-regular.eot?raw=true'); /* IE9 Compat Modes */
   src: local(''),
-       url('../assets/fonts/noto-sans-jp-v40-japanese-regular.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
-       url('../assets/fonts/noto-sans-jp-v40-japanese-regular.woff2') format('woff2'), /* Super Modern Browsers */
-       url('../assets/fonts/noto-sans-jp-v40-japanese-regular.woff') format('woff'), /* Modern Browsers */
-       url('../assets/fonts/noto-sans-jp-v40-japanese-regular.ttf') format('truetype'), /* Safari, Android, iOS */
-       url('../assets/fonts/noto-sans-jp-v40-japanese-regular.svg#NotoSansJP') format('svg'); /* Legacy iOS */
+       url('https://github.com/tungdo01659/switch/blob/main/noto-sans-jp-v40-japanese-regular.eot?raw=true&#iefix') format('embedded-opentype'), /* IE6-IE8 */
+       url('https://github.com/tungdo01659/switch/blob/main/noto-sans-jp-v40-japanese-regular.woff2?raw=true') format('woff2'), /* Super Modern Browsers */
+       url('https://github.com/tungdo01659/switch/blob/main/noto-sans-jp-v40-japanese-regular.woff?raw=true') format('woff'), /* Modern Browsers */
+       url('https://github.com/tungdo01659/switch/blob/main/noto-sans-jp-v40-japanese-regular.ttf?raw=true') format('truetype'), /* Safari, Android, iOS */
+       url('https://github.com/tungdo01659/switch/blob/main/noto-sans-jp-v40-japanese-regular.svg#NotoSansJP?raw=true') format('svg'); /* Legacy iOS */
 }
 /* noto-sans-jp-500 - japanese */
 @font-face {
   font-family: 'Noto Sans JP';
   font-style: normal;
   font-weight: 500;
-  src: url('../assets/fonts/noto-sans-jp-v40-japanese-500.eot'); /* IE9 Compat Modes */
+  src: url('https://github.com/tungdo01659/switch/blob/main/noto-sans-jp-v40-japanese-500.eot?raw=true'); /* IE9 Compat Modes */
   src: local(''),
-       url('../assets/fonts/noto-sans-jp-v40-japanese-500.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
-       url('../assets/fonts/noto-sans-jp-v40-japanese-500.woff2') format('woff2'), /* Super Modern Browsers */
-       url('../assets/fonts/noto-sans-jp-v40-japanese-500.woff') format('woff'), /* Modern Browsers */
-       url('../assets/fonts/noto-sans-jp-v40-japanese-500.ttf') format('truetype'), /* Safari, Android, iOS */
-       url('../assets/fonts/noto-sans-jp-v40-japanese-500.svg#NotoSansJP') format('svg'); /* Legacy iOS */
+       url('https://github.com/tungdo01659/switch/blob/main/noto-sans-jp-v40-japanese-500.eot?raw=true&#iefix') format('embedded-opentype'), /* IE6-IE8 */
+       url('https://github.com/tungdo01659/switch/blob/main/noto-sans-jp-v40-japanese-500.woff2?raw=true') format('woff2'), /* Super Modern Browsers */
+       url('https://github.com/tungdo01659/switch/blob/main/noto-sans-jp-v40-japanese-500.woff?raw=true') format('woff'), /* Modern Browsers */
+       url('https://github.com/tungdo01659/switch/blob/main/noto-sans-jp-v40-japanese-500.ttf?raw=true') format('truetype'), /* Safari, Android, iOS */
+       url('https://github.com/tungdo01659/switch/blob/main/noto-sans-jp-v40-japanese-500.svg#NotoSansJP?raw=true') format('svg'); /* Legacy iOS */
 }
 /* noto-sans-jp-700 - japanese */
 @font-face {
   font-family: 'Noto Sans JP';
   font-style: normal;
   font-weight: 700;
-  src: url('../assets/fonts/noto-sans-jp-v40-japanese-700.eot'); /* IE9 Compat Modes */
+  src: url('https://github.com/tungdo01659/switch/blob/main/noto-sans-jp-v40-japanese-700.eot?raw=true'); /* IE9 Compat Modes */
   src: local(''),
-       url('../assets/fonts/noto-sans-jp-v40-japanese-700.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
-       url('../assets/fonts/noto-sans-jp-v40-japanese-700.woff2') format('woff2'), /* Super Modern Browsers */
-       url('../assets/fonts/noto-sans-jp-v40-japanese-700.woff') format('woff'), /* Modern Browsers */
-       url('../assets/fonts/noto-sans-jp-v40-japanese-700.ttf') format('truetype'), /* Safari, Android, iOS */
-       url('../assets/fonts/noto-sans-jp-v40-japanese-700.svg#NotoSansJP') format('svg'); /* Legacy iOS */
+       url('https://github.com/tungdo01659/switch/blob/main/noto-sans-jp-v40-japanese-700.eot?raw=true&#iefix') format('embedded-opentype'), /* IE6-IE8 */
+       url('https://github.com/tungdo01659/switch/blob/main/noto-sans-jp-v40-japanese-700.woff2?raw=true') format('woff2'), /* Super Modern Browsers */
+       url('https://github.com/tungdo01659/switch/blob/main/noto-sans-jp-v40-japanese-700.woff?raw=true') format('woff'), /* Modern Browsers */
+       url('https://github.com/tungdo01659/switch/blob/main/noto-sans-jp-v40-japanese-700.ttf?raw=true') format('truetype'), /* Safari, Android, iOS */
+       url('https://github.com/tungdo01659/switch/blob/main/noto-sans-jp-v40-japanese-700.svg#NotoSansJP?raw=true') format('svg'); /* Legacy iOS */
 }
 
 /*
